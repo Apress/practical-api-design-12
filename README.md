@@ -2,7 +2,7 @@
 
 This repository accompanies [*Practical API Design*](http://www.apress.com/9781430243175) by Jaroslav Tulach (Apress, 2012).
 
-![Cover image](9781430243175.jpg)
+[comment]: #cover
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
